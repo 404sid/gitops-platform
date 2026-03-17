@@ -1,6 +1,6 @@
 image:
   repository: 225187407954.dkr.ecr.us-east-1.amazonaws.com/gitops-app
-  tag: "ecf924e3304d6b5c3d018d3f66e8f1603006f91f"
+  tag: "7022822fdcb763516a3a585546d7fe75bb80da26"
   pullPolicy: Always
 
 replicaCount: 2
